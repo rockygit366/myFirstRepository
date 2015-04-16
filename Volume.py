@@ -1,6 +1,6 @@
 class Volume:
    'Volume object'
-   volCount = 0
+   volCount = 7
 
    def __init__(self, name, parent, size, fs):
       self.name = name
